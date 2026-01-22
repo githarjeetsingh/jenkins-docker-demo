@@ -1,6 +1,6 @@
 pipeline {
     agent any
-
+   
     environment {
         DOCKER_HUB_USERNAME = "docharjeetsingh"
         IMAGE_NAME = "simple-html-app"
